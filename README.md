@@ -48,6 +48,7 @@
 - `Dockerfile`, `.py` 등 실습 코드만 포함
 - 실제 컨테이너 실행은 터미널에서 수동 실행 권장
 - Docker Hub와 연동은 추후 별도 진행
+- [Docker 블로그](https://brotherdan.tistory.com/category/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EB%B0%9C/Docker)
 
 ---
 
