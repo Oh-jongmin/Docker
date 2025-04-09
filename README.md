@@ -1,4 +1,4 @@
-# 🐳 Docker Practice
+# 🐳 Docker
 
 > 이 저장소는 Docker를 활용한 컨테이너 실습을 정리한 공간입니다.  
 > 이미지 빌드, 컨테이너 실행, Dockerfile 작성 등 실습 내용을 포함합니다.
